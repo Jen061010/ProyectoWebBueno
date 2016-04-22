@@ -1,0 +1,21 @@
+<<<<<<< da1fc080aaaa26e6e03fec7a4e24676f26165563
+c:\users\admin\documents\visual studio 2012\Projects\MvcApplication1\Logica\bin\Debug\Logica.dll
+c:\users\admin\documents\visual studio 2012\Projects\MvcApplication1\Logica\bin\Debug\Logica.pdb
+c:\users\admin\documents\visual studio 2012\Projects\MvcApplication1\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2012\Projects\MvcApplication1\Logica\obj\Debug\Logica.dll
+c:\users\admin\documents\visual studio 2012\Projects\MvcApplication1\Logica\obj\Debug\Logica.pdb
+=======
+C:\Users\admin\Documents\Repositorios GitHub curso\ProyectoWeb\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Repositorios GitHub curso\ProyectoWeb\Logica\bin\Debug\Logica.dll.config
+C:\Users\admin\Documents\Repositorios GitHub curso\ProyectoWeb\Logica\bin\Debug\Logica.dll
+C:\Users\admin\Documents\Repositorios GitHub curso\ProyectoWeb\Logica\bin\Debug\Logica.pdb
+C:\Users\admin\Documents\Repositorios GitHub curso\ProyectoWeb\Logica\bin\Debug\Dominio.dll
+C:\Users\admin\Documents\Repositorios GitHub curso\ProyectoWeb\Logica\bin\Debug\EntityFramework.dll
+C:\Users\admin\Documents\Repositorios GitHub curso\ProyectoWeb\Logica\bin\Debug\Infraestructura.dll
+C:\Users\admin\Documents\Repositorios GitHub curso\ProyectoWeb\Logica\bin\Debug\Dominio.pdb
+C:\Users\admin\Documents\Repositorios GitHub curso\ProyectoWeb\Logica\bin\Debug\Infraestructura.pdb
+C:\Users\admin\Documents\Repositorios GitHub curso\ProyectoWeb\Logica\bin\Debug\EntityFramework.xml
+C:\Users\admin\Documents\Repositorios GitHub curso\ProyectoWeb\Logica\bin\Debug\es\EntityFramework.resources.dll
+C:\Users\admin\Documents\Repositorios GitHub curso\ProyectoWeb\Logica\obj\Debug\Logica.dll
+C:\Users\admin\Documents\Repositorios GitHub curso\ProyectoWeb\Logica\obj\Debug\Logica.pdb
+>>>>>>> Commit: Implementación vídeo Pedro(inyección de dependencias)

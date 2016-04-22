@@ -1,0 +1,5 @@
+c:\users\admin\documents\visual studio 2012\Projects\MvcApplication1\Dominios\obj\Debug\Dominios.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2012\Projects\MvcApplication1\Dominios\bin\Debug\Dominios.dll
+c:\users\admin\documents\visual studio 2012\Projects\MvcApplication1\Dominios\bin\Debug\Dominios.pdb
+c:\users\admin\documents\visual studio 2012\Projects\MvcApplication1\Dominios\obj\Debug\Dominios.dll
+c:\users\admin\documents\visual studio 2012\Projects\MvcApplication1\Dominios\obj\Debug\Dominios.pdb

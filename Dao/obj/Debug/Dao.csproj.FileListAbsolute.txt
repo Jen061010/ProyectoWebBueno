@@ -1,0 +1,5 @@
+c:\users\admin\documents\visual studio 2012\Projects\MvcApplication1\Dao\bin\Debug\Dao.dll
+c:\users\admin\documents\visual studio 2012\Projects\MvcApplication1\Dao\bin\Debug\Dao.pdb
+c:\users\admin\documents\visual studio 2012\Projects\MvcApplication1\Dao\obj\Debug\Dao.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2012\Projects\MvcApplication1\Dao\obj\Debug\Dao.dll
+c:\users\admin\documents\visual studio 2012\Projects\MvcApplication1\Dao\obj\Debug\Dao.pdb

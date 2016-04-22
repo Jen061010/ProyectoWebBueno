@@ -1,0 +1,11 @@
+C:\Users\admin\Documents\Repositorios GitHub curso\ProyectoWeb\Infraestructura\obj\Debug\Infraestructura.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Repositorios GitHub curso\ProyectoWeb\Infraestructura\bin\Debug\Infraestructura.dll.config
+C:\Users\admin\Documents\Repositorios GitHub curso\ProyectoWeb\Infraestructura\bin\Debug\Infraestructura.dll
+C:\Users\admin\Documents\Repositorios GitHub curso\ProyectoWeb\Infraestructura\bin\Debug\Infraestructura.pdb
+C:\Users\admin\Documents\Repositorios GitHub curso\ProyectoWeb\Infraestructura\bin\Debug\Dominio.dll
+C:\Users\admin\Documents\Repositorios GitHub curso\ProyectoWeb\Infraestructura\bin\Debug\EntityFramework.dll
+C:\Users\admin\Documents\Repositorios GitHub curso\ProyectoWeb\Infraestructura\bin\Debug\Dominio.pdb
+C:\Users\admin\Documents\Repositorios GitHub curso\ProyectoWeb\Infraestructura\bin\Debug\EntityFramework.xml
+C:\Users\admin\Documents\Repositorios GitHub curso\ProyectoWeb\Infraestructura\bin\Debug\es\EntityFramework.resources.dll
+C:\Users\admin\Documents\Repositorios GitHub curso\ProyectoWeb\Infraestructura\obj\Debug\Infraestructura.dll
+C:\Users\admin\Documents\Repositorios GitHub curso\ProyectoWeb\Infraestructura\obj\Debug\Infraestructura.pdb

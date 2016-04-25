@@ -20,11 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // El siguiente GUID sirve como identificador de typelib si este proyecto se expone a COM
-<<<<<<< da1fc080aaaa26e6e03fec7a4e24676f26165563
-[assembly: Guid("9956523a-6c78-4ec6-b6a7-f660f3e9df7f")]
-=======
 [assembly: Guid("95b2ece3-f6ad-401f-8a2f-165b779bb2c9")]
->>>>>>> Commit: Implementación vídeo Pedro(inyección de dependencias)
 
 // La información de versión de un ensamblado consta de los cuatro valores siguientes:
 //

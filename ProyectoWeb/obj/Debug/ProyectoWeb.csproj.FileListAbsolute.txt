@@ -175,11 +175,6 @@ C:\Users\admin\Documents\Repositorios GitHub curso\ProyectoWeb\ProyectoWeb\bin\e
 C:\Users\admin\Documents\Repositorios GitHub curso\ProyectoWeb\ProyectoWeb\bin\es\WebMatrix.Data.resources.dll
 C:\Users\admin\Documents\Repositorios GitHub curso\ProyectoWeb\ProyectoWeb\bin\es\Microsoft.Web.WebPages.OAuth.resources.dll
 C:\Users\admin\Documents\Repositorios GitHub curso\ProyectoWeb\ProyectoWeb\bin\es\WebMatrix.WebData.resources.dll
-<<<<<<< da1fc080aaaa26e6e03fec7a4e24676f26165563
-C:\Users\admin\Documents\Repositorios GitHub curso\ProyectoWeb\ProyectoWeb\obj\Debug\ProyectoWeb.csprojResolveAssemblyReference.cache
-C:\Users\admin\Documents\Repositorios GitHub curso\ProyectoWeb\ProyectoWeb\obj\Debug\ProyectoWeb.dll
-C:\Users\admin\Documents\Repositorios GitHub curso\ProyectoWeb\ProyectoWeb\obj\Debug\ProyectoWeb.pdb
-=======
 C:\Users\admin\Documents\Repositorios GitHub curso\ProyectoWeb\ProyectoWeb\obj\Debug\ProyectoWeb.dll
 C:\Users\admin\Documents\Repositorios GitHub curso\ProyectoWeb\ProyectoWeb\obj\Debug\ProyectoWeb.pdb
 C:\Users\admin\Documents\Repositorios GitHub curso\ProyectoWeb\ProyectoWeb\obj\Debug\ProyectoWeb.csprojResolveAssemblyReference.cache
@@ -189,4 +184,3 @@ C:\Users\admin\Documents\Repositorios GitHub curso\ProyectoWeb\ProyectoWeb\bin\L
 C:\Users\admin\Documents\Repositorios GitHub curso\ProyectoWeb\ProyectoWeb\bin\Dominio.pdb
 C:\Users\admin\Documents\Repositorios GitHub curso\ProyectoWeb\ProyectoWeb\bin\Infraestructura.pdb
 C:\Users\admin\Documents\Repositorios GitHub curso\ProyectoWeb\ProyectoWeb\bin\Logica.pdb
->>>>>>> Commit: Implementación vídeo Pedro(inyección de dependencias)

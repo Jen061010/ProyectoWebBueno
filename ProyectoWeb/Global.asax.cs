@@ -1,4 +1,7 @@
-﻿using System;
+﻿using Autofac;
+using Logica;
+using ProyectoWeb.Controllers;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -6,6 +9,8 @@ using System.Web.Http;
 using System.Web.Mvc;
 using System.Web.Optimization;
 using System.Web.Routing;
+using Autofac.Integration.Mvc;
+using Infraestructura;
 
 namespace ProyectoWeb
 {
@@ -23,6 +28,12 @@ namespace ProyectoWeb
             RouteConfig.RegisterRoutes(RouteTable.Routes);
             BundleConfig.RegisterBundles(BundleTable.Bundles);
             AuthConfig.RegisterAuth();
+            AutoFacConfig.Register(DependencyResolver.SetResolver);
+
+           
         }
     }
 }
+
+
+

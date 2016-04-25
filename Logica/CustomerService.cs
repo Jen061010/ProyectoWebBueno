@@ -15,6 +15,7 @@ namespace Logica
         public CustomerService(ICustomerDbContext ctx)
             :base(ctx)
         {
+            
             if (null == ctx)
             {
                 throw new ArgumentNullException("CustomerContext");
@@ -29,8 +30,9 @@ namespace Logica
             return customerNew;
         }
 
-        public void Delete(Customer c)
+        public void Delete(int cus)
         {
+            Customer c = Get(cus);
             _context.Customers.Remove(c);
              SaveChanges();
         }
@@ -51,7 +53,7 @@ namespace Logica
 
         public IEnumerable<Customer> GetAll(string name) 
         {
-            return _context.Customers.Where(c=>c.Nombre.Contains(name));
+            return _context.Customers.Where(c=>c.Nombre.Contains(name)||name ==null);
 
         }
         private static void UpdateCustomer(Customer customer, Customer customerOld) 
@@ -74,5 +76,17 @@ namespace Logica
         {
             return _context.SaveChanges();
         }
-    }
+
+
+        public IEnumerable<Customer> GetAlls()
+        {
+            return _context.Customers;
+
+        }
+
+        }
+
+
+
+
 }

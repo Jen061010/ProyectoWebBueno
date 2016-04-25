@@ -20,3 +20,14 @@ C:\Users\admin\Documents\GitHubSourceTree\ProyectoWebBueno\Infraestructura\bin\D
 C:\Users\admin\Documents\GitHubSourceTree\ProyectoWebBueno\Infraestructura\obj\Debug\Infraestructura.csprojResolveAssemblyReference.cache
 C:\Users\admin\Documents\GitHubSourceTree\ProyectoWebBueno\Infraestructura\obj\Debug\Infraestructura.dll
 C:\Users\admin\Documents\GitHubSourceTree\ProyectoWebBueno\Infraestructura\obj\Debug\Infraestructura.pdb
+C:\Users\admin\Documents\GitHub\ProytectoWebBueno\Infraestructura\bin\Debug\Infraestructura.dll.config
+C:\Users\admin\Documents\GitHub\ProytectoWebBueno\Infraestructura\bin\Debug\Infraestructura.dll
+C:\Users\admin\Documents\GitHub\ProytectoWebBueno\Infraestructura\bin\Debug\Infraestructura.pdb
+C:\Users\admin\Documents\GitHub\ProytectoWebBueno\Infraestructura\bin\Debug\Dominio.dll
+C:\Users\admin\Documents\GitHub\ProytectoWebBueno\Infraestructura\bin\Debug\EntityFramework.dll
+C:\Users\admin\Documents\GitHub\ProytectoWebBueno\Infraestructura\bin\Debug\Dominio.pdb
+C:\Users\admin\Documents\GitHub\ProytectoWebBueno\Infraestructura\bin\Debug\EntityFramework.xml
+C:\Users\admin\Documents\GitHub\ProytectoWebBueno\Infraestructura\bin\Debug\es\EntityFramework.resources.dll
+C:\Users\admin\Documents\GitHub\ProytectoWebBueno\Infraestructura\obj\Debug\Infraestructura.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\GitHub\ProytectoWebBueno\Infraestructura\obj\Debug\Infraestructura.dll
+C:\Users\admin\Documents\GitHub\ProytectoWebBueno\Infraestructura\obj\Debug\Infraestructura.pdb

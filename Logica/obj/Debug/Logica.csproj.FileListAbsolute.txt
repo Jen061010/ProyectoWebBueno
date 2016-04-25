@@ -24,3 +24,16 @@ C:\Users\admin\Documents\GitHubSourceTree\ProyectoWebBueno\Logica\bin\Debug\es\E
 C:\Users\admin\Documents\GitHubSourceTree\ProyectoWebBueno\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
 C:\Users\admin\Documents\GitHubSourceTree\ProyectoWebBueno\Logica\obj\Debug\Logica.dll
 C:\Users\admin\Documents\GitHubSourceTree\ProyectoWebBueno\Logica\obj\Debug\Logica.pdb
+C:\Users\admin\Documents\GitHub\ProytectoWebBueno\Logica\bin\Debug\Logica.dll.config
+C:\Users\admin\Documents\GitHub\ProytectoWebBueno\Logica\bin\Debug\Logica.dll
+C:\Users\admin\Documents\GitHub\ProytectoWebBueno\Logica\bin\Debug\Logica.pdb
+C:\Users\admin\Documents\GitHub\ProytectoWebBueno\Logica\bin\Debug\Dominio.dll
+C:\Users\admin\Documents\GitHub\ProytectoWebBueno\Logica\bin\Debug\EntityFramework.dll
+C:\Users\admin\Documents\GitHub\ProytectoWebBueno\Logica\bin\Debug\Infraestructura.dll
+C:\Users\admin\Documents\GitHub\ProytectoWebBueno\Logica\bin\Debug\Dominio.pdb
+C:\Users\admin\Documents\GitHub\ProytectoWebBueno\Logica\bin\Debug\Infraestructura.pdb
+C:\Users\admin\Documents\GitHub\ProytectoWebBueno\Logica\bin\Debug\EntityFramework.xml
+C:\Users\admin\Documents\GitHub\ProytectoWebBueno\Logica\bin\Debug\es\EntityFramework.resources.dll
+C:\Users\admin\Documents\GitHub\ProytectoWebBueno\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\GitHub\ProytectoWebBueno\Logica\obj\Debug\Logica.dll
+C:\Users\admin\Documents\GitHub\ProytectoWebBueno\Logica\obj\Debug\Logica.pdb

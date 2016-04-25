@@ -28,7 +28,7 @@ namespace ProyectoWeb.Controllers
         //
         // GET: /Customer/
 
-        public ActionResult Index(string name)
+        public ActionResult Customer(string name)
         {
             var customers = _service.GetAll(name);
             return View(customers);

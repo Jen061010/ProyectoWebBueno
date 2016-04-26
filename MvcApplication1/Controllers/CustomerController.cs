@@ -7,7 +7,7 @@ using System.Web.Http;
 
 namespace MvcApplication1.Controllers
 {
-    public class ValuesController : ApiController
+    public class CustomerController : ApiController
     {
         // GET api/values
         public IEnumerable<string> Get()
